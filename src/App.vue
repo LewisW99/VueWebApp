@@ -337,7 +337,7 @@ h1 {
 h1::after {
   content: "";
   display: block;
-  width: 120px;
+  width: 420px;
   height: 3px;
   margin: 0.75rem auto 0;
   background: linear-gradient(90deg, transparent, var(--accent), transparent);
